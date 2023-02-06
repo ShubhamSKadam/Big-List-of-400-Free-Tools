@@ -11,6 +11,8 @@
 - [Layers: 56](http://www.layerswp.com/) A WordPress site builder so simple. It’s free, forever.
 - [Bootstrap Zero: 44](http://bootstrapzero.com/) The largest open-source, free Bootstrap template collection.
 - [Landing Harbor: 37](http://www.landingharbor.com/) Promote your mobile app with a free landing page.
+- [NicePage](https://nicepage.com/) Create and customise your own websites with the ability to export as html.
+
 
 **FREE BRANDING & LOGO**
 
@@ -18,6 +20,9 @@
 - [Hipster Logo Generator: 86](http://www.hipsterlogogenerator.com/) It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
 - [Squarespace Free Logo: 69](https://www.squarespace.com/logo/) You can download free low-res version for free.
 - [Signature Maker: 95](http://signature-maker.net/) A free web based tool that creates your handwritten digital signature.
+- [NameCheap Logo Generator](https://www.namecheap.com/logo-maker/) Easily create professional logos in as quick as a minute.
+
+
 
 **FREE INVOICE**
 
