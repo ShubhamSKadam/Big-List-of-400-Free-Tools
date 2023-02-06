@@ -1,4 +1,5 @@
 # 🌐 Big List of 400 Free Tools and Resources for Digital Entrepreneurs
+
 <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/45819442-featured_2.png" height="300px"/>
 
 **FREE WEBSITE**
@@ -13,7 +14,6 @@
 - [Landing Harbor: 37](http://www.landingharbor.com/) Promote your mobile app with a free landing page.
 - [NicePage](https://nicepage.com/) Create and customise your own websites with the ability to export as html.
 
-
 **FREE BRANDING & LOGO**
 
 - [Logaster: 170](https://www.logaster.com/) Professional online logo maker & generator.
@@ -21,8 +21,6 @@
 - [Squarespace Free Logo: 69](https://www.squarespace.com/logo/) You can download free low-res version for free.
 - [Signature Maker: 95](http://signature-maker.net/) A free web based tool that creates your handwritten digital signature.
 - [NameCheap Logo Generator](https://www.namecheap.com/logo-maker/) Easily create professional logos in as quick as a minute.
-
-
 
 **FREE INVOICE**
 
@@ -188,6 +186,7 @@
 - [App Review Monitor: 3](https://launchkit.io/reviews) App reviews delivered to Slack and your inbox.
 - [Presskit Generator: 6](http://presskitgenerator.com/) Generate a Press Kit for your iOS App for free.
 - [Free Survey Creator: 19](http://www.freesurveycreator.com/) Create a survey. Get user feedback for free.
+- [Fireship](https://www.youtube.com/@Fireship) Get updated on latest news in tech. Learn, reresh some tech stacks through fun tutorials.
 
 **FREE CUSTOMER SERVICE & SURVEYS**
 
