@@ -1,4 +1,4 @@
-# Big List of 400 Free Tools and Resources for Digital Entrepreneurs
+# 🌐 Big List of 400 Free Tools and Resources for Digital Entrepreneurs
 <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/45819442-featured_2.png" height="300px"/>
 
 **FREE WEBSITE**
