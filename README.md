@@ -361,6 +361,7 @@
 - [Copy Paste Character: 10](http://copypastecharacter.com/) Click to copy.
 - [Window Resizer: 9](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en) See how it looks on various screen resolutions.
 - [Sonics: 12](http://www.sonics.io/) Free packs of UI sounds and sound effects delivered to your inbox every month.
+- [File Converter Free](https://file-converter-free.com/) Free online file converter supporting images, documents, audio, video, and archive formats with no signup required.
 
 **FREE DEVELOP / CODE THINGS**
 
