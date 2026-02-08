@@ -52,6 +52,7 @@
 - [Impossibility: 31](http://impossibility.org/) The best domain name generator ever.
 - [Lean Domain Search: 17](http://www.leandomainsearch.com/) Find a domain name for your website in seconds.
 - [Domainr: 31](https://domainr.com/) Fast, free, domain name search, short URLs.
+- [Cobalt Studio Business Name Generator](https://techchenko.github.io/cobaltstudio-products/tools/business-name-generator/) Minimalist, no-signup generator (keywords + industry) for brandable business name ideas.
 
 **FREE WRITING / BLOGGING**
 
