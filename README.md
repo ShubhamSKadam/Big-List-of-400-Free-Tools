@@ -58,6 +58,8 @@
 
 - [Hemingway: 47](http://www.hemingwayapp.com/) Hemingway App makes your writing bold and clear.
 - [Grammarly: 26](https://www.grammarly.com/) Finds & corrects mistakes of your writing.
+- [Cobalt Studio Project Closeout Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/project-closeout-email-generator/) Free, no-signup generator to draft a project wrap-up email to clients.
+- [Cobalt Studio Client Offboarding Checklist Generator](https://techchenko.github.io/cobaltstudio-products/tools/client-offboarding-checklist-generator/) Free, no-signup generator for a client offboarding checklist (handover, access, next steps).
 - [Medium: 32](https://medium.com/) Everyone’s stories and ideas.
 - [ZenPen: 29](http://www.zenpen.io/) The minimal writing tool of web.
 - [Liberio: 25](http://liber.io/) Simple eBook creation and publishing right from Google Drive.
@@ -206,6 +208,7 @@
 
 **FREE DESIGN RESOURCES**
 
+- [Cobalt Studio Templates Hub](https://techchenko.github.io/cobaltstudio-products/files/) Free copy/paste templates and downloadable files for solo builders (emails, proposals, checklists).
 - [Freebbble: 62](http://freebbble.com/) High-quality design freebies from Dribbble.
 - [Dribbble: 17](https://dribbble.com/search?q=freebie) Dribbble search results for “freebie”. An absolute freebie treasure.
 - [Graphic Burger: 24](http://graphicburger.com/) Tasty design resources made with care for each pixel.
