@@ -184,6 +184,7 @@
 - [Digg Digg: 5](https://wordpress.org/plugins/digg-digg/installation/) Your all in one share buttons plugin.
 - [Disqus: 1](https://disqus.com/) Build a community of active readers & commenters.
 - [App Review Monitor: 3](https://launchkit.io/reviews) App reviews delivered to Slack and your inbox.
+- [GetAppNiche App Revenue Checker](https://getappniche.com/tools/app-revenue-checker) Free iOS App Store revenue checker for estimating app revenue and market demand.
 - [Presskit Generator: 6](http://presskitgenerator.com/) Generate a Press Kit for your iOS App for free.
 - [Free Survey Creator: 19](http://www.freesurveycreator.com/) Create a survey. Get user feedback for free.
 - [Fireship](https://www.youtube.com/@Fireship) Get updated on latest news in tech. Learn, reresh some tech stacks through fun tutorials.
