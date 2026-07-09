@@ -493,3 +493,4 @@
 - [App vs. Website: 20](http://howmuchtomakeanapp.com/build-a-website-vs-app/) Should you build an app or website?
 - [Pitcherific: 8](http://pitcherific.com/) Pitcherific helps you create, train, and improve your pitch.
 - [Startup Equity Calculator: 16](http://startupequity.io/) Figure out how much equity to grant new hires in seconds.
+- [Calcrux](https://calcrux.com) Free calculators for startup burn rate, runway, equity dilution, and unit economics — supports 9 countries and no signup needed.
