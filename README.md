@@ -493,3 +493,4 @@
 - [App vs. Website: 20](http://howmuchtomakeanapp.com/build-a-website-vs-app/) Should you build an app or website?
 - [Pitcherific: 8](http://pitcherific.com/) Pitcherific helps you create, train, and improve your pitch.
 - [Startup Equity Calculator: 16](http://startupequity.io/) Figure out how much equity to grant new hires in seconds.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
