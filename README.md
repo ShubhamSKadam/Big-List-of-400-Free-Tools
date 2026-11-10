@@ -29,6 +29,7 @@
 - [Slimvoice: 40](http://slimvoice.co/) Insanely simple invoices.
 - [Wave: 39](https://www.waveapps.com/) Free & easy accounting, invoicing and more.
 - [Invoice.to: 51](http://invoice.to/) Free invoice generator.
+- [InvoiceGen](https://invoice-generator.shop/) Free invoice generator with no sign-up — invoices, quotes, receipts and purchase orders in 160+ currencies, instant PDF download.
 
 **FREE LEGAL DOCS**
 
@@ -392,6 +393,7 @@
 **BACKGROUND SOUND TO FOCUS**
 
 - [Noisli: 14](http://www.noisli.com/) Background noise & color generator.
+- [Ambient Noise: 12](https://ambientnoise.io/) Free browser ambient noise mixer for focus and relaxation — rain, fan, cafe and more; no signup.
 - [Noizio: 10](http://noiz.io/) Ambient sound equalizer for relax or productivity.
 - [Defonic: 8](http://defonic.com/) Combine the sounds of the world into a melody.
 - [Designers.mx: 7](https://designers.mx/) Curated playlists by designers, for designers.
@@ -494,3 +496,4 @@
 - [Pitcherific: 8](http://pitcherific.com/) Pitcherific helps you create, train, and improve your pitch.
 - [Startup Equity Calculator: 16](http://startupequity.io/) Figure out how much equity to grant new hires in seconds.
 - [ToolsNook](https://www.toolsnook.com/) Free calculators for VAT, margin, break-even and freelance rates — built for small businesses, no signup required.
+- [SmartBizCalc](https://smartbizcalc.com) 370+ free small business calculators: startup costs, break-even, payroll tax, S-corp savings, workers comp, contractor pricing, and more — no signup.
