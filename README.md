@@ -30,6 +30,7 @@
 - [Wave: 39](https://www.waveapps.com/) Free & easy accounting, invoicing and more.
 - [Invoice.to: 51](http://invoice.to/) Free invoice generator.
 - [InvoiceGen](https://invoice-generator.shop/) Free invoice generator with no sign-up — invoices, quotes, receipts and purchase orders in 160+ currencies, instant PDF download.
+- [Free Invoice Generator (web-free.site)](https://free-invoice-generator.web-free.site/) Free browser-based invoices, quotes and receipts with PDF download, no sign-up.
 
 **FREE LEGAL DOCS**
 
