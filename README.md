@@ -400,6 +400,7 @@
 - [Coffitivity: 4](https://coffitivity.com/) Stream the sounds of a coffee shop at work.
 - [Octave: 7](http://raisedbeaches.com/octave/) A free library of UI sounds, handmade for iOS.
 - [Free Sound: 16](https://www.freesound.org/) Huge database of free audio snippets, samples, + recordings.
+- [DailySounds](https://dailysounds.org/?ref=bigfreetools) Free sound effects and ambience (UI clicks, whooshes, rain, wind) to preview in the browser and download as MP3, WAV or OGG; no signup.
 - [Sonics: 12](http://www.sonics.io/) Free packs of UI sounds and sound effects delivered to your inbox every month.
 - [Deep Focus: 10](https://play.spotify.com/user/spotify/playlist/2ujjMpFriZ2nayLmrD1Jgl?play=true&utm_source=open.spotify.com&utm_medium=open) Spotify’s famous playlist to focus.
 
