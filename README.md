@@ -430,6 +430,7 @@
 - [Any.do: 4](http://www.any.do/) Get things done with your team.
 - [Asana: 2](https://asana.com/) Teamwork without email.
 - [GoToMeeting: 4](https://free.gotomeeting.com/) Online meetings without the hassle.
+- [Secret Santa Generator](https://secretsantagenerator.xyz/office-secret-santa/) Run an office Secret Santa for in-person and remote teammates: draw names, set a budget cap and exclusions, and send each person a private link. Free, no sign-up or email addresses.
 
 **DIGITAL NOMADS & REMOTE WORKING**
 
