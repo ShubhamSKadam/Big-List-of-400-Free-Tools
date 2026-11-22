@@ -497,3 +497,4 @@
 - [Startup Equity Calculator: 16](http://startupequity.io/) Figure out how much equity to grant new hires in seconds.
 - [ToolsNook](https://www.toolsnook.com/) Free calculators for VAT, margin, break-even and freelance rates — built for small businesses, no signup required.
 - [SmartBizCalc](https://smartbizcalc.com) 370+ free small business calculators: startup costs, break-even, payroll tax, S-corp savings, workers comp, contractor pricing, and more — no signup.
+- [cv.cm Startup Cost Calculator](https://cv.cm/en/startup-cost/) Add up fit-out, equipment and deposit for a small shop, then see monthly profit, payback months and break-even orders a day.
