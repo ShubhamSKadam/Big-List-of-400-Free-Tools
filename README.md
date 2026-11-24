@@ -133,6 +133,7 @@
 - [Recite: 13](http://www.recite.com/) Turn a quote into a visual masterpiece.
 - [Meme Generator: 26](http://memegenerator.net/) The first online meme generator.
 - [Pablo: 29](https://buffer.com/pablo) Design engaging images for your social media posts in under 30 seconds.
+- [Kite](https://kite.new/) Free collaborative design tool (browser, Mac, Windows) where AI agents like Claude or ChatGPT draw editable layers with your team.
 
 **FREE EMAIL MANAGEMENT**
 
