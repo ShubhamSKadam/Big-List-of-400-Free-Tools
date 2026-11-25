@@ -497,3 +497,4 @@
 - [Startup Equity Calculator: 16](http://startupequity.io/) Figure out how much equity to grant new hires in seconds.
 - [ToolsNook](https://www.toolsnook.com/) Free calculators for VAT, margin, break-even and freelance rates — built for small businesses, no signup required.
 - [SmartBizCalc](https://smartbizcalc.com) 370+ free small business calculators: startup costs, break-even, payroll tax, S-corp savings, workers comp, contractor pricing, and more — no signup.
+- [CofounderFit Equity Calculator](https://www.cofounderfit.com/tools/cofounder-equity-calculator) Split cofounder equity by time, capital, expertise, responsibilities and risk, no signup.
