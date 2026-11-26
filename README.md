@@ -402,6 +402,7 @@
 - [Free Sound: 16](https://www.freesound.org/) Huge database of free audio snippets, samples, + recordings.
 - [Sonics: 12](http://www.sonics.io/) Free packs of UI sounds and sound effects delivered to your inbox every month.
 - [Deep Focus: 10](https://play.spotify.com/user/spotify/playlist/2ujjMpFriZ2nayLmrD1Jgl?play=true&utm_source=open.spotify.com&utm_medium=open) Spotify’s famous playlist to focus.
+- [Noise Generator](https://bestlatestapps.com/tools/noise-generator/) Free browser white, pink, brown and blue noise for focus or sleep, with a fade-out timer; no signup.
 
 **AVOID DISTRACTION**
 
