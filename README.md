@@ -161,7 +161,7 @@
 - [Build an online course: 23](https://a-course-about-building-online-courses.teachery.co/default) A free course to help you build an online course.
 - [MailCharts: 10](http://www.mailcharts.com/email-marketing-best-practices) A FREE email course to help you become a better marketer.
 - [FirstSiteGuide: 10](http://firstsiteguide.com/blogging-intro/) The beginner’s guide to successful blogging.
-- - [Swavent Guides](https://swavent.com/en/guides) Free Shopify, ecommerce, SEO and web development guides.
+- [Swavent Guides](https://swavent.com/en/guides) Free Shopify, ecommerce, SEO and web development guides.
 
 **FREE SOCIAL MEDIA + COMMUNITY MANAGEMENT**
 
