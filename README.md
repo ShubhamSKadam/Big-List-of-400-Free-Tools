@@ -200,7 +200,6 @@
 
 **A/B TESTS & GROWTH HACKING**
 
-- [Petit Hacks: 23](http://petithacks.com/) Acquisition, retention, & revenue hacks used by companies.
 - [Optimizely: 12](https://www.optimizely.com/) One optimization platform for websites and mobile apps.
 - [Hello Bar: 6](http://hellobar.com/)Tool for A/B testing different CTAs & power words.
 - [GrowthHackers: 25](https://growthhackers.com/) Unlocking growth. Together.
@@ -422,7 +421,6 @@
 - [Flowdock: 2](https://www.flowdock.com/) Free for teams of five and non-profits.
 - [Typetalk: 3](http://www.typetalk.in/) Share and discuss ideas with your team through instant messaging.
 - [Slack: 3](https://slack.com/) Free for unlimited users with few limited features.
-- [HipChat: 5](https://www.hipchat.com/) Free for unlimited users with few limited features.
 - [Google Hangouts: 1](https://www.google.com/hangouts/) Bring conversations to life with photos, emoji and group video calls.
 - [Voveet: 5](http://www.voxeet.com/) Simple, free 3D conference calls. Experience the difference.
 - [FreeBusy: 3](https://www.freebusy.io/) Eliminate coordination headaches when you need to schedule a meeting.
