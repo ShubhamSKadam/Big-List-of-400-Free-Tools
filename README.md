@@ -30,6 +30,7 @@
 - [Wave: 39](https://www.waveapps.com/) Free & easy accounting, invoicing and more.
 - [Invoice.to: 51](http://invoice.to/) Free invoice generator.
 - [InvoiceGen](https://invoice-generator.shop/) Free invoice generator with no sign-up — invoices, quotes, receipts and purchase orders in 160+ currencies, instant PDF download.
+- [Genaya Invoice Generator](https://www.genaya.com/tools/invoice-generator) Free invoice generator with no sign-up: add your business, your client, line items with tax and notes, then print or save it as a PDF. Nothing you type is stored.
 
 **FREE LEGAL DOCS**
 
