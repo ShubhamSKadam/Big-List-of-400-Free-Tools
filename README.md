@@ -447,9 +447,8 @@
 - [Product Hunt: 32](https://www.producthunt.com/) Curation of the best new products, every day.
 - [Angellist: 21](https://angel.co/) Where the world meets startups.
 - [Beta List: 24](http://betalist.com/) Discover and get early access to tomorrow’s startups.
-- [StartupLi.st: 17](http://startupli.st/) Find. Follow. Recommend startups.
+- [SaaSCity](https://saascity.io/) Interactive 3D SaaS and startup launch directory with a free listing tier and curated [free dofollow directories list](https://saascity.io/free-dofollow-directories).
 - [Startups List: 18](http://www.startups-list.com/) Collections of the best startups in different places.
-- [Erli Bird: 18](http://erlibird.com/) Where great new products are born.
 
 **BUILD TOGETHER**
 
