@@ -121,6 +121,7 @@
 - [Smush.it: 5](https://wordpress.org/plugins/wp-smushit/) Image optimizer WordPress plugin.
 - [Dunnnk: 18](http://dunnnk.com/) Beautiful mockups.
 - [InstaMockup: 19](http://www.instamockup.com/) Create beautiful screenshots of your app or website.
+- [Tinymast](https://tinymast.com/) Compress, resize and convert images and PDFs online; uploaded files and results are deleted within 24 hours.
 
 **FREE IMAGE EDITORS**
 
