@@ -294,7 +294,7 @@
 - [Picography: 4](http://picography.co/) Free hi-resolution photos.
 - [Pixabay: 8](https://pixabay.com/) Free high-quality images.
 - [Magdeleine: 6](http://magdeleine.co/) A free high-resolution photo every day.
-- [Snapographic: 7](http://snapographic.com/) Free stock photos for personal & commercial use.
+
 - [Little Visuals: 4](http://littlevisuals.co/) 7 hi-res images in your inbox every 7 days.
 - [Splitshire: 3](http://www.splitshire.com/) Delicious free stock photos.
 - [New Old Stock: 3](http://nos.twnsnd.co/) Vintage photos from the public archives.
@@ -434,7 +434,7 @@
 
 **DIGITAL NOMADS & REMOTE WORKING**
 
-- [Founded X Startup Stats: 20](http://foundedx.com/stats) Find the best country to build your startup in
+
 - [Teleport: Startup Cities: 11](http://teleport.org/) Discover and budget your next move to 100+ startup cities.
 - [Nomad House: 8](https://nomadhouse.io/) Houses around the world for nomads to live and work together.
 - [Workfrom: 17](https://workfrom.co/) Coffee, Wi-Fi and good vibes.
