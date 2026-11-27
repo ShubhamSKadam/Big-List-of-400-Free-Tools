@@ -140,9 +140,9 @@
 - [Mailchimp: 17](https://mailchimp.com/) Send 12,000 emails to 2,000 subscribers for free.
 - [ManyContactsBar: 5](https://www.manycontacts.com/) Free contact form sits on top of your website.
 - [Hello Bar: 8](https://www.hellobar.com/) Get more email subscribers.
-- [Sumome List Builder: 6](https://sumome.com/app/list-builder) Collect email addresses with light box popover.
+
 - [Scroll Triggered Box: 1](https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/) Boost your conversion rates — WordPress only.
-- [Sumome Scroll Box: 3](https://sumome.com/app/scroll-box) Capture more email addresses, politely.
+
 - [Mandrill: 13](http://mandrill.com/) The fastest way to deliver email. Free 12K emails/month.
 - [Mailgun: 5](https://www.mailgun.com/) The Email Service For Developers. Free 10K emails/month.
 - [Sendgrid: 8](https://sendgrid.com/) Delivers your transactional and marketing email. Free 12K emails/month.
@@ -161,6 +161,7 @@
 - [Build an online course: 23](https://a-course-about-building-online-courses.teachery.co/default) A free course to help you build an online course.
 - [MailCharts: 10](http://www.mailcharts.com/email-marketing-best-practices) A FREE email course to help you become a better marketer.
 - [FirstSiteGuide: 10](http://firstsiteguide.com/blogging-intro/) The beginner’s guide to successful blogging.
+- - [Swavent Guides](https://swavent.com/en/guides) Free Shopify, ecommerce, SEO and web development guides.
 
 **FREE SOCIAL MEDIA + COMMUNITY MANAGEMENT**
 
@@ -168,7 +169,7 @@
 - [Spruce: 14](http://www.tryspruce.com/) Make Twitter ready images in seconds.
 - [Click To Tweet: 21](http://coschedule.com/click-to-tweet) Get more shares on your content.
 - [MyTweetLinks: 13](http://mytweetlinks.com/) Increases Twitter traffic.
-- [Latergram: 19](http://www.latergram.me/) Easily plan & schedule your Instagram posts.
+
 - [WordPress Pin it Button for Images: 3](https://wordpress.org/plugins/pinterest-pin-it-button-for-images/) Add a “Pin It” button.
 - [SharedCount: 4](https://www.sharedcount.com/) Track URL shares, likes, tweets, and more.
 - [How Many Shares 7](http://howmanyshares.com/) Count how many shares a URL has across most social networks, all in one place.
@@ -181,10 +182,10 @@
 - [Bitly: 2](https://bitly.com/) Create, share, and track shortened links.
 - [Filament: 8](http://filament.io/flare) A free beautiful and customizable sharing bar.
 - [Addthis: 17](https://www.addthis.com/) Get more shares, follows and conversions.
-- [Sumome Share: 9](https://sumome.com/app/share) Auto-optimizes your share buttons for max traffic.
+
 - [Digg Digg: 5](https://wordpress.org/plugins/digg-digg/installation/) Your all in one share buttons plugin.
 - [Disqus: 1](https://disqus.com/) Build a community of active readers & commenters.
-- [App Review Monitor: 3](https://launchkit.io/reviews) App reviews delivered to Slack and your inbox.
+
 - [Presskit Generator: 6](http://presskitgenerator.com/) Generate a Press Kit for your iOS App for free.
 - [Free Survey Creator: 19](http://www.freesurveycreator.com/) Create a survey. Get user feedback for free.
 - [Fireship](https://www.youtube.com/@Fireship) Get updated on latest news in tech. Learn, reresh some tech stacks through fun tutorials.
@@ -216,7 +217,7 @@
 - [365 Psd: 34](http://365psd.com/) Download a free psd every day.
 - [Dbf: 12](http://dbfreebies.co/) Dribbble & Behance best design freebies.
 - [Marvel: 20](https://marvelapp.com/resources/) Free resources from designers we love.
-- [UI Space: 18](http://uispace.net/) High quality hand-crafted Freebies for awesome people.
+
 - [Free Section of Pixeden: 15](http://www.pixeden.com/free-design-web-resources) Free design resources.
 - [Free Section of Creative Market: 15](https://creativemarket.com/free-goods) Freebies coming out every Monday.
 - [Teehan+Lax: 3](http://www.teehanlax.com/tools/iphone/) iOS 8 GUI PSD (iPhone 6).
@@ -301,7 +302,7 @@
 - [Life of Pix: 5](http://www.lifeofpix.com/) Free high-resolution photos.
 - [Gratisography: 4](http://www.gratisography.com/) Free high-resolution photos.
 - [Getrefe: 3](http://getrefe.com/downloads/category/free/) Free photos.
-- [IM Free: 8](http://www.imcreator.com/free) A curated collection of free resources.
+
 - [Cupcake: 2](http://cupcake.nilssonlee.se/) A photographer’s treat by Jonas Nilsson Lee.
 - [The Pattern Library 4](http://thepatternlibrary.com/) Free patterns for your projects.
 - [Public Domain Archive: 6](http://publicdomainarchive.com/) New 100% free stock photos.
@@ -324,7 +325,7 @@
 - [TypeGenius: 26](http://www.typegenius.com/) Find the perfect font combo for your next project.
 - [Font Squirrel: 22](http://www.fontsquirrel.com/) 100% free commercial fonts.
 - [FontFaceNinja: 8](http://www.fontface.ninja/) Browser extension to find the web fonts a site uses.
-- [Google Fonts: 4](https://www.google.com/fonts) Free, open-source fonts optimized for the web.
+
 - [Beautiful Web Type: 8](http://hellohappy.org/beautiful-web-type/) Best typefaces from the Google web fonts directory.
 - [DaFont: 4](https://www.dafont.com/) Archive of freely downloadable fonts.
 - [1001 Free Fonts: 10](http://www.1001freefonts.com/) A huge selection of free fonts.
@@ -338,7 +339,7 @@
 - [Fontello: 22](http://fontello.com/) Icon fonts generator.
 - [Flat Icon: 13](http://www.flaticon.com/) A search engine for 16000+ glyph vector icons.
 - [Material Design Icons: 10](https://github.com/google/material-design-icons/releases/tag/1.0.0) 750 Free open-source glyphs by Google.
-- [Font Awesome: 6](https://fortawesome.github.io/Font-Awesome/) The iconic font and CSS toolkit.
+
 - [Glyphsearch: 4](http://glyphsearch.com/) Search for icons from other icon databases.
 - [MakeAppIcon: 5](http://makeappicon.com/) Generate App Icons of all sizes with a click.
 - [Endless Icons: 5](http://www.endlessicons.com/) Free flat icons and creative stuff.
@@ -463,14 +464,14 @@
 - [Khan Academy: 13](https://www.khanacademy.org/) Free, world-class education for anyone, anywhere.
 - [Skillshare: 15](http://www.skillshare.com/classes) Unlock your creativity with free online classes & projects.
 - [Codecademy: 12](https://www.codecademy.com/) Learn to code interactively, for free.
-- How to start a startup: [As an Audio Podcast 4](https://itunes.apple.com/us/podcast/how-to-start-a-startup/id922398209?mt=2)or[ As Online Course 5](https://startupclass.co/)
+
 - [Startup Notes: 11](http://ffc2015.startupnotes.org/) Startup School invites amazing founders to tell their story.
 - [The How: 26](http://how.co/) Learn from entrepreneurs.
 - [Launch This Year: 20](http://launchthisyear.com/) Guide to help you launch your online business.
 - [Closed Club: 7](http://closedclub.org/) Browse shut-down start-ups & learn why they closed.
 - [Startup Talks: 6](http://startuptalks.tv/) A curated collection of startup related videos.
 - [Rocketship.fm: 11](http://rocketship.fm/) Learn from successful entrepreneurs each week.
-- [reSRC.io: 14](http://resrc.io/) All free programming learning resources.
+
 - [The Lean LaunchPad: 15](https://www.udacity.com/course/ep245) How to Build a Startup.
 - [TalentBuddy: 10](https://www.talentbuddy.co/) Learn to code.
 - [Mixergy: 14](http://mixergy.com/goto/welcome/) Learn from proven entrepreneurs.
