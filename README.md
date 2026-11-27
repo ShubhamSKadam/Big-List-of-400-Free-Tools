@@ -30,6 +30,7 @@
 - [Wave: 39](https://www.waveapps.com/) Free & easy accounting, invoicing and more.
 - [Invoice.to: 51](http://invoice.to/) Free invoice generator.
 - [InvoiceGen](https://invoice-generator.shop/) Free invoice generator with no sign-up — invoices, quotes, receipts and purchase orders in 160+ currencies, instant PDF download.
+- [Billsmith](https://billsmith.app/) Free invoice, quote and receipt generator with no sign-up and no watermark: download a PDF or an editable Word file, with UK VAT, CIS and US sales tax worked out, built in the browser.
 
 **FREE LEGAL DOCS**
 
