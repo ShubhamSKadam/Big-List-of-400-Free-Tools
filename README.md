@@ -450,6 +450,7 @@
 - [StartupLi.st: 17](http://startupli.st/) Find. Follow. Recommend startups.
 - [Startups List: 18](http://www.startups-list.com/) Collections of the best startups in different places.
 - [Erli Bird: 18](http://erlibird.com/) Where great new products are born.
+- [MEDIAPRONET](https://mediapronet.com/) Directory where founders list new startups, SaaS tools and indie products.
 
 **BUILD TOGETHER**
 
